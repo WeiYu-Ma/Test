@@ -1,0 +1,352 @@
+[
+    [
+        "C:\\mwy\\dx\\text\\code-base",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\code-base",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533227668197,
+            "changeTime": 1533227668197,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\code-base\\main",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\code-base\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533227668197,
+            "changeTime": 1533227668197,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\code-base\\main\\default",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\code-base\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533228962869,
+            "changeTime": 1533228962869,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\code-base\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\code-base\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533227668201,
+            "changeTime": 1533227668201,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533228318358,
+            "changeTime": 1533228318358,
+            "contentHash": "b32b5f1c566646677a67909fbf6a4a1300880281",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\code-base\\main\\default\\classes\\Test.cls-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\code-base\\main\\default\\classes\\Test.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1533228962877,
+            "changeTime": 1533228962877,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\code-base\\main\\default\\classes\\Test.cls",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\code-base\\main\\default\\classes\\Test.cls",
+            "isDirectory": false,
+            "size": 22,
+            "modifiedTime": 1533228962885,
+            "changeTime": 1533228962885,
+            "contentHash": "3e90d08ab58fa45965d91d114f6e3388011bde8f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\code-base\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\code-base\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533228962881,
+            "changeTime": 1533228962881,
+            "contentHash": "acca1d2a46beb2ef5dd32ac3628a02ec86a5443c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533229066729,
+            "changeTime": 1533229066729,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533229074135,
+            "changeTime": 1533229074135,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533232807742,
+            "changeTime": 1533232807742,
+            "contentHash": "c10276c48e7d0552370b8954d912d5be88b49dd7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account\\fields\\Test__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account\\fields\\Test__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 360,
+            "modifiedTime": 1533232807695,
+            "changeTime": 1533232807695,
+            "contentHash": "db69c0a7609b997b82125bce60de6e1701343b1f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9626,
+            "modifiedTime": 1533232807711,
+            "changeTime": 1533232807711,
+            "contentHash": "ffa1ae3fef6b89309c257e80bcfcc7ad11f35378",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9578,
+            "modifiedTime": 1533232807727,
+            "changeTime": 1533232807727,
+            "contentHash": "c8da9418afcd1aff212436a599a3ea2d8d02ed52",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9713,
+            "modifiedTime": 1533246130233,
+            "changeTime": 1533246130233,
+            "contentHash": "5d407f377f10b2ea208f094ff8eedfda6f1015a3"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9626,
+            "modifiedTime": 1533232807742,
+            "changeTime": 1533232807742,
+            "contentHash": "16a96208edcd1dfe331e0f10bb972559f3de972b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4919,
+            "modifiedTime": 1533232807742,
+            "changeTime": 1533232807742,
+            "contentHash": "65df06f69df4f5df1d3e2a09d5232567321c58a3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4579,
+            "modifiedTime": 1533232807758,
+            "changeTime": 1533232807758,
+            "contentHash": "878f906534f5695b0af003de562273b8c7b38629",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4583,
+            "modifiedTime": 1533232807774,
+            "changeTime": 1533232807774,
+            "contentHash": "9028852b556a241eef611695e009187dfe671c6e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17984,
+            "modifiedTime": 1533246130311,
+            "changeTime": 1533246130311,
+            "contentHash": "81178e9e6f7a23573a1829ec0dedb5e44d64c3d1"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533246130186,
+            "changeTime": 1533246130186,
+            "contentHash": "7c46fb3cfa760cabda433a3f6316bc2e256b2bf5"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533232807695,
+            "changeTime": 1533232807695,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533232807695,
+            "changeTime": 1533232807695,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533232807742,
+            "changeTime": 1533232807742,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533232807789,
+            "changeTime": 1533232807789,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account\\fields\\Test2__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\mwy\\dx\\text\\object-base\\main\\default\\objects\\Account\\fields\\Test2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 362,
+            "modifiedTime": 1533246130186,
+            "changeTime": 1533246130186,
+            "contentHash": "08d599eb293845deb91af81afde9c061cc8d8452"
+        }
+    ]
+]
